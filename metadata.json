@@ -1,0 +1,6 @@
+{
+  "name": "Robot Mattress",
+  "description": "A high-end, premium-quality template with smart chatbots and immersive custom elements for New Jersey's leading smart mattress retailer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
